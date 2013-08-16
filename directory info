@@ -1,0 +1,8 @@
+Change the extension to .vbs
+
+open run
+type %appdata%
+a window opens.
+go through
+Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+store the file there
